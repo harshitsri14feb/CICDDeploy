@@ -1,0 +1,19 @@
+{
+  "name": "cicddeploy",
+  "version": "1.0.0",
+  "description": "Github Project ",
+  "main": "index.js",
+  "scripts": {
+    "ng": "ng",
+    "build": "ng build",
+    "start": "ng serve",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "author": "harshitsri14feb",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "jest": "^29.7.0"
+  }
+}
