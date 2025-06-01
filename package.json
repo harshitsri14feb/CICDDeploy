@@ -1,13 +1,16 @@
 {
-  "name": "my-github-ci-project",
+  "name": "cicddeploy",
   "version": "1.0.0",
-  "description": "Sample project to test GitHub Actions CI",
+  "description": "Github Project ",
   "main": "index.js",
   "scripts": {
+    "ng": "ng",
+    "build": "ng build",
+    "start": "ng serve",
     "test": "jest",
     "lint": "eslint ."
   },
-  "author": "Your Name",
+  "author": "harshitsri14feb",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^8.50.0",
